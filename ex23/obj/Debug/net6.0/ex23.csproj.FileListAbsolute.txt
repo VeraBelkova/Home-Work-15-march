@@ -1,0 +1,15 @@
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\bin\Debug\net6.0\ex23.exe
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\bin\Debug\net6.0\ex23.deps.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\bin\Debug\net6.0\ex23.runtimeconfig.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\bin\Debug\net6.0\ex23.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\bin\Debug\net6.0\ex23.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.csproj.AssemblyReference.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.AssemblyInfoInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.AssemblyInfo.cs
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.csproj.CoreCompileInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\refint\ex23.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ex23.genruntimeconfig.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_1503\ex23\obj\Debug\net6.0\ref\ex23.dll
